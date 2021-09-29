@@ -105,5 +105,4 @@ Stats        | Streak
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaadAliHafiz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
-[![Stargazers repo roster for @SaadAliHafiz/Repo-Roster](https://reporoster.com/stars/SaadAliHafiz/Repo-Roster)](https://github.com/SaadAliHafiz/Repo-Roster/stargazers)
-
+[![Stargazers repo roster for @SaadAliHafiz/Repo-Roster](https://reporoster.com/stars/notext/SaadAliHafiz/Repo-Roster)](https://github.com/SaadAliHafiz/Repo-Roster/stargazers)
