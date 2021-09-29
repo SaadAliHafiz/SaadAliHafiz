@@ -98,9 +98,9 @@ Stats        | Streak
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAliHafiz&count_private=true&theme=radical">
 </p>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAliHafiz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</p>    
 
 ### Contribution Graph:
 
