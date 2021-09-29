@@ -28,10 +28,10 @@
 [15.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png
 [16.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_google_firebase_1175544.png
 [17.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_linux_mint_337127.png
-[18.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_oracle_4691480.png
-[19.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_rust_4691305.png
-[20.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_shellscript_2919.png
-[21.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
+<!-- [18.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_oracle_4691480.png -->
+<!-- [19.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_rust_4691305.png -->
+<!-- [20.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_shellscript_2919.png -->
+[17.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
 
 
 [1]: https://www.instagram.com/im_saad_ali/
