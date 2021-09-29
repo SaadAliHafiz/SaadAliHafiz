@@ -34,13 +34,13 @@
 [21.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
 
 
-[1]: https://www.instagram.com/_aghamuqarib_/
-[2]: https://www.facebook.com/AghaMuqaribb/
-[3]: https://www.linkedin.com/in/agha-muqarib-29b5a1178/
-[4]: https://twitter.com/MuqaribUllah
+[1]: https://www.instagram.com/im_saad_ali/
+[2]: https://www.facebook.com/imsaadali0/
+[3]: https://www.linkedin.com/in/saad-ali-b83022178/
+[4]: https://twitter.com/im_saad_ali
 [5]: https://medium.com/@aghamuqaribullah
 [6]: https://www.reddit.com/user/Muqii_2000
-[7]: aghamuqaribullah@gmail.com
+[7]: sahafiz@students.uit.edu
 [8]: https://muqaribsthoughts.wordpress.com/
 [9]: https://html.com/
 [10]: https://www.python.org/
