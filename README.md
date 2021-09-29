@@ -38,22 +38,20 @@
 [2]: https://www.facebook.com/imsaadali0/
 [3]: https://www.linkedin.com/in/saad-ali-b83022178/
 [4]: https://twitter.com/im_saad_ali
-[5]: https://medium.com/@aghamuqaribullah
-[6]: https://www.reddit.com/user/Muqii_2000
-[7]: sahafiz@students.uit.edu
-[8]: https://muqaribsthoughts.wordpress.com/
-[9]: https://html.com/
-[10]: https://www.python.org/
-[11]: https://ubuntu.com/
-[12]: https://www.mysql.com/
-[14]: https://www.w3.org/Style/CSS/Overview.en.html
-[15]: https://www.javascript.com/
-[16]: https://firebase.google.com/docs
-[17]: https://linuxmint.com/
-[18]: https://apex.oracle.com/en/
-[19]: https://www.rust-lang.org/
-[20]: https://www.shellscript.sh/
-[21]: https://code.visualstudio.com/
+[5]: sahafiz@students.uit.edu
+[6]: https://html.com/
+[7]: https://www.python.org/
+[8]: https://ubuntu.com/
+[9]: https://www.mysql.com/
+[10]: https://www.w3.org/Style/CSS/Overview.en.html
+[11]: https://www.javascript.com/
+[12]: https://firebase.google.com/docs
+[13]: https://linuxmint.com/
+[14]: https://apex.oracle.com/en/
+[15]: https://www.rust-lang.org/
+[16]: https://www.shellscript.sh/
+[17]: https://code.visualstudio.com/
+[18]: https://www.jetbrains.com/idea/
 
 This is me, Saad Ali. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu).
 
