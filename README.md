@@ -51,7 +51,7 @@
 [15]: https://www.rust-lang.org/
 [16]: https://www.shellscript.sh/
 [17]: https://code.visualstudio.com/
-[18]: https://www.jetbrains.com/
+
 
 This is me, Saad Ali. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu).
 
