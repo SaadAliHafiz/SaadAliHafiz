@@ -92,6 +92,8 @@ Right now, I'm working on RISC-V Single Cycle Datapath using Chisel. I'm also a 
 Stats        | Streak
 ------------ | -------------
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadAliHafiz&show_icons=true&theme=radical&count_private=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaadAliHafiz&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadAliHafiz&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAliHafiz&count_private=true&theme=radical">
