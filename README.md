@@ -151,3 +151,10 @@ Stats        | Streak
 
 
 [![Forkers repo roster for @SaadAliHafiz/Repo-Roster](https://reporoster.com/forks/SaadAliHafiz/SaadAliHafiz)](https://github.com/SaadAliHafiz/network/members)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SaadAliHafiz/count.svg" />
+</p>
+
