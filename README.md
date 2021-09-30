@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SaadAliHafiz&color=green)
-
 
 # Hey there 👋
 
