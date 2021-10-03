@@ -48,7 +48,7 @@
 [14]: https://apex.oracle.com/en/
 [15]: https://www.rust-lang.org/
 [16]: https://www.shellscript.sh/
-[17]: https://code.visualstudio.com/ --> -->
+[17]: https://code.visualstudio.com/ --> 
 
 [1.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_instagram_3225191.png
 [2.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_facebook_834722.png
