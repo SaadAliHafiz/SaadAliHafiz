@@ -104,7 +104,7 @@ Right now, I'm working on RISC-V Single Cycle Datapath using Chisel. I'm also a 
 - 🔭 I’m currently working on RV32 5 Stage Pipeline @ [Micro Electronics Research Lab (MERL).](https://github.com/merledu)
 - 🌱 I’m currently learning Functional Programming in Scala.
 - 👯 I’m looking to collaborate on Python Desktop Applications.
-- 💬 Ask me about Python, Rust, Scala, Chisel & Web Development.
+- 💬 Ask me about Python, Scala, Chisel & Web Development.
 <!-- - ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose. -->
 
 ### Tech Stack: 
