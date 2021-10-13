@@ -77,7 +77,7 @@
 [3]: https://www.linkedin.com/in/saad-ali-b83022178/
 [4]: https://twitter.com/im_saad_ali
 [5]: sahafiz@students.uit.edu
-[5]: https://medium.com/@aghamuqaribullah
+[5]: https://medium.com/@SaadAli
 [6]: https://www.reddit.com/user/Muqii_2000
 [7]: aghamuqaribullah@gmail.com
 [8]: https://muqaribsthoughts.wordpress.com/
