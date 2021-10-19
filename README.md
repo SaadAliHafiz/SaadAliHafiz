@@ -97,7 +97,7 @@
 
 This is me, Saad Ali. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu).
 
-Right now, I'm working on RISC-V Single Cycle Datapath using Chisel. I'm also a certified web developer. The side skills include Git, Linux. 
+Right now, I'm working on 5 stage pipeline RISC-V Single Cycle Datapath using Chisel. I'm also a certified web developer. The side skills include Git, Linux. 
 
 ### Gist about me:
 
