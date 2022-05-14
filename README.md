@@ -9,6 +9,7 @@
 [![alt text][6.1]][6]
 [![alt text][8.1]][8]
 
+<a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <!-- [1.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_instagram_3225191.png
 [2.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_facebook_834722.png
